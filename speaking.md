@@ -38,6 +38,10 @@ Since speaking at events like yours is a large part of my job, I do not generall
 
 My exceptions to this rule are any large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events where I am being asked to speak on or train employees in a topic or technology not directly related to my day job. In both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.
 
+### Intellectual Property
+
+I am not granting you ownership over my content by speaking at your event. You are welcome to record or stream my presentation (it's encouraged, actually!), but rules about captioning do apply here, the recording may not be paywalled, and I do retain ownership of the content.
+
 ### COVID Policies
 
 Your event must require both masks and proof of vaccination for me to appear in person. Masking should be actively enforced by conference staff. I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination; if your event is in such a jurisdiction, I will be happy to present my talk remotely.
