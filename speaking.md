@@ -20,7 +20,7 @@ I strongly prefer events that clearly communicate each speaker's preferred prono
 
 ### Accessibility
 
-All areas of the event (including any auxilliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages. Speakers should not be forced to self-identify their disability, and attendees should not need to request accomodations.
+All areas of the event (including any auxiliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages. Speakers should not be forced to self-identify their disability, and attendees should not need to request accommodations.
 
 Captioning should be provided, ideally live by a trained professional. If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice. This is important not just for attendees who are deaf or hard of hearing, but for people who speak English as a second language or people who are neurodivergent. 
 
