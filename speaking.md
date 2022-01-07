@@ -12,7 +12,7 @@ Your event must have an explicitly-defined, enforced Code of Conduct linked publ
 
 ### Speaker Diversity
 
-Across your entire event, there must be adequate representation of races, gender identities, and expressions. The exact requirements fluctuate a bit based on the size of the event, but generally, at least 30% of your total speaker lineup should be people who are not cisgender white men. I would strongly prefer not to see singular representation (i.e., only one Black speaker). Making room for new speakers is also important to me.
+Across your entire event, there must be adequate representation of races, gender identities, and expressions. The exact requirements fluctuate a bit based on the size of the event, but generally, at least 30% of your total speaker lineup should be people who are not cisgender white men. I would strongly prefer not to see singular representation (i.e., only one Black speaker). Making room for new speakers is also important to me; I want to see at least one slot reserved for a person who is not already well-known on the speaking circuit.
 
 For panels, Birds of a Feather, or any other speaking arrangement consisting of three or more people on stage at a time, there must be at least one speaker who is not a cisgender white male. All male or all white speaking groups are not acceptable.
 
@@ -28,7 +28,7 @@ Captioning should be provided, ideally live by a trained professional. If there 
 
 No part of the cost of speaking at your event should lie with the speaker. My employer will cover airfare and hotel for an event, plus a day on either side of the event dates, if the conference theme or attendee demographic is one that aligns with their goals. If your event does not fit (most do, though!), you must cover a hotel near the conference venue, airfare (preferably on Delta or one of their partner airlines, as I do have status with them), and transportation between the airport and the hotel. Regardless of whether or not my employer covers the cost of my appearance at your event, you must provide me with a full pass for the event.
 
-If your event is a significant time zone change from me (US Pacific time), I do ask that my flight in be booked to arrive a day or two before my speaking slot. 
+If your event is a significant time zone change from me (US Pacific time), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot. 
 
 This policy applies to *all* speakers at an event.
 
@@ -40,17 +40,19 @@ For large-scale, corporate event where the organizing company stands to make a p
 
 ### Intellectual Property
 
-You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. If you record or stream a presentation, ensure that it is captioned. Recordings cannot be paywalled, and I reserve the right to ask that a recording be taken down at any point in the future for any reason of my choosing.
+You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. If you record or stream a presentation, ensure that it is captioned. Recordings cannot be paywalled (unless I give express, written permission, such as if you have paid me for a private corporate event), and I reserve the right to ask that any recording, audio or video, as well as my likeness, be taken down at any point in the future for any reason of my choosing.
+
+I can't believe I have to say this, but you absolutely may not use my photo, voice, or any piece of my presentation to mint an NFT. If your event has some NFT component, I will not be participating.
 
 ### COVID Policies
 
-Your event must require both masks and proof of vaccination for me to appear in person. Masking should be actively enforced by conference staff. I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination; if your event is in such a jurisdiction, I will be happy to present my talk remotely.
+Your event must require both masks and proof of vaccination for me to appear in person. Masking should be actively enforced by conference staff. I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination; if your event is in such a jurisdiction, I will be happy to present my talk remotely. If your event is in a place where case rates are extremely low (for example, New Zealand), this requirement is negotiable, but I will impose increased testing and isolation requirements upon myself for safety.
 
 Ideally, on-site testing should be provided, but it is not required. Personally, I will take a rapid test before flying to your event, and before entering the conference. 
 
 ### Cancellations
 
-Cancelling a speaking engagement is something I try very, very hard to avoid. It has only happened once, and it was unavoidable. That said, the ongoing global pandemic means that a cancellation is more likely than ever before. In the case of a surge, either globally or locally, as a result of a new variant or not, I reserve the right to pull out of your event for my own safety and the safety of others. In that case, I will *always* offer a remote presentation. 
+Cancelling a speaking engagement is something I try very, very hard to avoid. It has only happened once, and it was unavoidable. That said, the ongoing global pandemic means that a cancellation is more likely than ever before. In the case of a surge, either globally or locally, as a result of a new variant or not, I reserve the right to pull out of your event for my own safety and the safety of others. In that case, I will make my best effort to offer a remote presentation. 
 
 ### Contacting Me
 
