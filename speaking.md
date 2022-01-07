@@ -20,27 +20,27 @@ I strongly prefer events that clearly communicate each speaker's preferred prono
 
 ### Accessibility
 
-All areas of the event (including any auxiliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages. Speakers should not be forced to self-identify their disability, and attendees should not need to request accommodations.
+All areas of the event (including any auxiliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages. 
 
-Captioning should be provided, ideally live by a trained professional. If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice. This is important not just for attendees who are deaf or hard of hearing, but for people who speak English as a second language or people who are neurodivergent. 
+Captioning should be provided, ideally live by a trained professional. If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice. 
 
 ### Costs for Speakers
 
 No part of the cost of speaking at your event should lie with the speaker. My employer will cover airfare and hotel for an event, plus a day on either side of the event dates, if the conference theme or attendee demographic is one that aligns with their goals. If your event does not fit (most do, though!), you must cover a hotel near the conference venue, airfare (preferably on Delta or one of their partner airlines, as I do have status with them), and transportation between the airport and the hotel. Regardless of whether or not my employer covers the cost of my appearance at your event, you must provide me with a full pass for the event.
 
-If your event is a significant time zone change from me (US Pacific time), I do ask that my flight in be booked to arrive a day or two before my speaking slot. This is for your benefit -- I want to give the best presentation possible, and arriving early allows me to ensure that I have adjusted to the time change before I walk on stage. It also mitigates the risk of a flight delay or cancellation.
+If your event is a significant time zone change from me (US Pacific time), I do ask that my flight in be booked to arrive a day or two before my speaking slot. 
 
-This policy applies to *all* speakers at an event. If there is no cost for me to speak, there should not be a cost for anyone else to speak.
+This policy applies to *all* speakers at an event.
 
 ### Speaking Fees and Honorariums
 
-Since speaking at events like yours is a large part of my job, I do not generally require a speaking fee or an honorarium. This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced. This is the overwhelming majority of the speaking I do. 
+Since speaking at events like yours is a large part of my job, I do not generally require a speaking fee or an honorarium. This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced.
 
-My exceptions to this rule are any large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events where I am being asked to speak on or train employees in a topic or technology not directly related to my day job. In both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.
+For large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.
 
 ### Intellectual Property
 
-I am not granting you ownership over my content by speaking at your event. You are welcome to record or stream my presentation (it's encouraged, actually!), but rules about captioning do apply here, the recording may not be paywalled, and I do retain ownership of the content. You may not retain recordings of my content to sell under any circumstances, unless express written permission is given. The only situation in which I can imagine this occurring is if I am a paid speaker, writing content exclusive to your event.
+You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. If you record or stream a presentation, ensure that it is captioned. Recordings cannot be paywalled, and I reserve the right to ask that a recording be taken down at any point in the future for any reason of my choosing.
 
 ### COVID Policies
 
