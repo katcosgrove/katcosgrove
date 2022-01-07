@@ -40,7 +40,7 @@ My exceptions to this rule are any large-scale, corporate event where the organi
 
 ### Intellectual Property
 
-I am not granting you ownership over my content by speaking at your event. You are welcome to record or stream my presentation (it's encouraged, actually!), but rules about captioning do apply here, the recording may not be paywalled, and I do retain ownership of the content.
+I am not granting you ownership over my content by speaking at your event. You are welcome to record or stream my presentation (it's encouraged, actually!), but rules about captioning do apply here, the recording may not be paywalled, and I do retain ownership of the content. You may not retain recordings of my content to sell under any circumstances, unless express written permission is given. The only situation in which I can imagine this occurring is if I am a paid speaker, writing content exclusive to your event.
 
 ### COVID Policies
 
