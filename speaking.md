@@ -16,7 +16,7 @@ Across your entire event, there must be adequate representation of races, gender
 
 For panels, Birds of a Feather, or any other speaking arrangement consisting of three or more people on stage at a time, there must be at least one speaker who is not a cisgender white male. All male or all white speaking groups are not acceptable.
 
-I strongly prefer events that clearly communicate each speaker's preferred pronouns, both on the conference website and on badges. 
+I strongly prefer events that clearly communicate each speaker's pronouns, both on the conference website and on badges. 
 
 ### Accessibility
 
