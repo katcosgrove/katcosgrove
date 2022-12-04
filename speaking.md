@@ -46,9 +46,9 @@ I can't believe I have to say this, but you absolutely may not use my photo, voi
 
 ### COVID Policies
 
-Your event must require both masks and proof of vaccination for me to appear in person. Masking should be actively enforced by conference staff. I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination; if your event is in such a jurisdiction, I will be happy to present my talk remotely. If your event is in a place where case rates are extremely low (for example, New Zealand), this requirement is negotiable, but I will impose increased testing and isolation requirements upon myself for safety.
+I strongly prefer events that require masks, and ideally also require proof of vaccination. If your event requires neither, I will impose increased testing and isolation requirements upon myself for both my safety and the safety of your attendees. If your event does not require masks but offers an option to present remotely, I am happy to participate.
 
-Ideally, on-site testing should be provided, but it is not required. Personally, I will take a rapid test before flying to your event, and before entering the conference. 
+Ideally, on-site testing should be provided, but it is not required. Personally, I will take a rapid test before flying to your event, and each day during the conference. 
 
 ### Cancellations
 
