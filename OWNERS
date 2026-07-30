@@ -1,0 +1,7 @@
+# GitHub usernames of people who may apply /lgtm
+reviewers:
+  - katcosgrove
+
+# GitHub usernames of people who may apply /approve
+approvers:
+  - katcosgrove
