@@ -1,26 +1,28 @@
-name: Run Jobs on PR
+name: Validate prow-github-actions
 on: pull_request
 
 jobs:
   execute:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: jpmcb/prow-github-actions@v1
-        with:
-          jobs: lgtm
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+      runs-on: ubuntu-latest
+      steps:
+        # Removes LGTM if changes are detected
+        - name: Validate LGTM
+        - uses: jpmcb/prow-github-actions@v1
+          with:
+            jobs: lgtm
+            github-token: '${{ secrets.GITHUB_TOKEN }}'
 
-name: Merge on lgtm label
-on:
-  schedule:
-    - cron: '0 * * * *'
+        # Requires area and kind labels
+        - name: Validate Area
+          uses: agilepathway/label-checker@v1.6.9
+          with:
+            prefix_mode: true
+            one_of: "area"
+            repo_token: ${{ secrets.GITHUB_TOKEN }}
 
-jobs:
-  execute:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: jpmcb/prow-github-actions@v1
-        with:
-          jobs: lgtm
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
-          merge-method: squash
+        - name: Validate Kind
+          uses: agilepathway/label-checker@v1.6.9
+          with:
+            prefix_mode: true
+            one_of: "kind"
+            repo_token: ${{ secrets.GITHUB_TOKEN }}
