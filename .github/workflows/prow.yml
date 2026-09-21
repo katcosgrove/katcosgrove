@@ -22,7 +22,7 @@ on:
   # label-sync: run once after installing, then whenever .github/prow.yaml changes
   workflow_dispatch:
   push:
-    branches: [$default-branch]
+    branches: [main]
     paths: [.github/prow.yaml]
 
 # the reusable workflow can use at most what is granted here
