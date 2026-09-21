@@ -40,7 +40,7 @@ require_matching_label:
   - regexp: ^area/
     missing_label: needs-area
     prs: true
-        missing_comment: Please add an area label with /area.
+    missing_comment: Please add an area label with /area.
     grace_period_duration: 5s
 
 # the merge gate; these are the defaults (labels is [lgtm, approved] once the repository has OWNERS files)
